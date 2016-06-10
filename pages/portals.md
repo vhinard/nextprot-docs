@@ -15,7 +15,7 @@ These portals provide information about the functional impact of genetic variant
 * **Mutation origin**:  The mutation origin describes either inherited mutation (germline_variant), acquired mutation (somatic_variant), or artificial (mutated_variant_site) according to Sequence Ontology http://www.sequenceontology.org 
 
 * **Relation**: In-house relations describing the functional defect/phenotype (Impact), or the absence of functional defect/phenotype (No impact)
-
+gfhfh
 * **Function**: 
 -	Effect on protein function/process/cellular localization is captured with Gene Ontology terms
 -	Effect on binding to proteins and protein complexes is captured with neXtProt entry IDs
