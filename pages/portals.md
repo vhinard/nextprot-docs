@@ -17,7 +17,7 @@ These portals provide information about the functional impact of genetic variant
 * **Relation**: In-house relations describing the functional defect/phenotype (Impact), or the absence of functional defect/phenotype (No impact)
 
 * **Function**: 
-  * Effect on protein function/process/cellular localization is captured with Gene Ontology terms
+  * Effect on protein function/biological process/cellular localization is captured with Gene Ontology terms
   * Effect on binding to proteins and protein complexes is captured with neXtProt entry IDs
   * Effect on binding to chemicals is captured with CHEBI terms
   * Effect on electrophysiological parameters is captured with the ICEPO ontology (relevant to ion channels) ftp://ftp.nextprot.org/pub/current_release/controlled_vocabularies/
